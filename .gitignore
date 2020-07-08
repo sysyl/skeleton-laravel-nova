@@ -1,0 +1,6 @@
+./idea
+/run
+.env
+.env.backup
+*.code-workspace
+.DS_Store
